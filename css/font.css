@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'iranyekan-400';
+  src: url('../assets/fonts/iranyekanwebthinfanum.woff') format('woff');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'iranyekan-500';
+  src: url('../assets/fonts/iranyekanwebregularfanum.woff') format('woff');
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'iranyekan-600';
+  src: url('../assets/fonts/iranyekanwebmediumfanum.woff') format('woff');
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'iranyekan-700';
+  src: url('../assets/fonts/iranyekanwebextraboldfanum.woff') format('woff');
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'iranyekan-900';
+  src: url('../assets/fonts/iranyekanwebblackfanum.woff') format('woff');
+  font-style: normal;
+  font-weight: 900;
+}
