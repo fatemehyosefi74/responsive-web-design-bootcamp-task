@@ -28,7 +28,7 @@ html {
 
 body {
   font-size: 1.6rem;
-  font-family: 'iranyekan-500', 'sans-serif';
+  font-family: 'vazir-500', 'sans-serif';
   color: var(--neutral-color-900);
 }
 .container {
@@ -37,7 +37,7 @@ body {
   padding: 0 3.2rem;
 }
 .secondary-title {
-  font-family: 'iranyekan-700', 'sans-serif';
+  font-family: 'vazir-900', 'sans-serif';
   font-size: 2.4rem;
   margin-bottom: 4rem;
 }
@@ -90,7 +90,7 @@ body {
   gap: 0.8rem;
 }
 .request__badge {
-  font-family: 'iranyekan-700', 'sans-serif';
+  font-family: 'vazir-900', 'sans-serif';
   font-size: 2rem;
   background-color: var(--secondary-color-100);
   color: var(--secondary-color-900);
@@ -102,11 +102,11 @@ body {
   border-radius: var(--border-radius-sm);
 }
 .request__text {
-  font-family: 'iranyekan-600', 'sans-serif';
   color: var(--secondary-color-900);
 }
 .request__date,
 .request__subtitle {
+  font-family: 'vazir-400', 'sans-serif';
   font-size: 1.2rem;
   color: var(--neutral-color-500);
 }
@@ -118,7 +118,7 @@ body {
   margin-bottom: 1.2rem;
 }
 .request__title {
-  font-family: 'iranyekan-700', 'sans-serif';
+  font-family: 'vazir-700', 'sans-serif';
   font-size: 2rem;
 }
 /* Request Card Footer Styles */
@@ -133,7 +133,6 @@ body {
   border-radius: var(--border-radius-sm);
 }
 .request__name {
-  font-family: 'iranyekan-600', 'sans-serif';
   font-size: 1.2rem;
 }
 
